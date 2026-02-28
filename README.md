@@ -53,7 +53,7 @@ The system detected six previously undiscovered asteroids in three nights of ZTF
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/syntharion
+git clone https://github.com/Ayau1ym/syntharion
 cd syntharion
 Install dependencies:
 pip install -r requirements.txt
